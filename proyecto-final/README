@@ -1,3 +1,6 @@
+URL_MONGO="mongodb+srv://josearieldabas01:HL4OcEYAGqynX5Jj@josedatabase.7dkjm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" 
+DB_NOMBRE="proyecto_final"
+
 Script y comandos para AWS:
 
 wget https://raw.githubusercontent.com/JoseDabas/virtualhost-proyecto-final/refs/heads/main/basico-ubuntu.sh && chmod +x basico-ubuntu.sh && bash basico-ubuntu.sh
